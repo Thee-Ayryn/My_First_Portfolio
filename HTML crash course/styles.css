@@ -29,8 +29,17 @@ li {
     /*list-style-type: disc;
     list-style-type: square;*/
     list-style-type: none;
-    text-shadow: 2px 2px grey;
+    text-shadow: 2px 2px greys;
 }
 h2 {
     color: yellowgreen;
+}
+span {
+ display: block;
+}
+div {
+/*display: inline*/
+border: 2px solid coral;
+margin: 20px;
+padding: 20px;
 }
